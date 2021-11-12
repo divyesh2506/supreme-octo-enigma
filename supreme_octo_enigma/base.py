@@ -1,7 +1,7 @@
 """
-project_name base module.
+supreme_octo_enigma base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the supreme_octo_enigma project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
